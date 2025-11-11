@@ -1,1 +1,1 @@
-live site:https://dulu06.github.io/Dynamic-Content-Filtering/
+https://dulu06.github.io/Dynamic-Content-Filtering/
